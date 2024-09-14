@@ -1,0 +1,20 @@
+.green-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  width: 120px;
+  color: white;
+  background-color: rgb(21, 181, 122);
+  padding: 17px 20px;
+  border-radius: 30px;
+  margin-top: 5px;
+  transition: 0.2s ease;
+}
+
+.green-btn:hover {
+  background-color: rgb(88, 197, 157);
+  transform: scale(1.02);
+
+
+}
